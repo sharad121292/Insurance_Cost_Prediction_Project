@@ -116,15 +116,11 @@ Random Forest / Gradient Boosting (based on evaluation results)
 
 Step 6: Feature Importance Analysis
 
----
-
 Extracted feature importance
 
 Smoking status had highest impact
 
 Age and BMI were strong predictors
-
----
 
 Model Performance
 
@@ -133,8 +129,6 @@ High R² Score
 Low prediction error
 
 Good generalization on unseen data
-
----
 
 Production Recommendations
 
@@ -146,8 +140,6 @@ Monitor performance drift
 
 Add more health-related features
 
----
-
 Business Applications
 
 Insurance premium pricing
@@ -158,17 +150,15 @@ Customer profiling
 
 Actuarial analysis support
 
----
-
 Future Improvements
 
 Apply log transformation
 
 Use XGBoost / LightGBM
 
-Advanced feature engineering
-
 ---
+
+Advanced feature engineering
 
 Hyperparameter optimization
 
